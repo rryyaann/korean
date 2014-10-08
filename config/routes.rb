@@ -4,6 +4,11 @@ Korean::Application.routes.draw do
   get "about" => "pages#about"
   get "contact" => "pages#contact"
   get "faq" => "pages#faq"
+  get "lesson" => "pages#lesson"
+  # Routes (do this all on one line)
+  get '/how-to-learn-korean', to: 'pages#how-to-learn-korean', as: 'how_to_learn_korean'
+  get '/korean-class', to: 'pages#korean-class', as: 'korean_class'
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 

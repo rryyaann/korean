@@ -13,8 +13,24 @@ $jumbotron-bg: #ecf0f1;
 	color: #ecf0f1;
 }
 
+.redtext {
+	color: #e74c3c !important;
+}
+
+.redback {
+	background-color: #e74c3c !important;
+}
+
 .bluetext {
 	color: #3498db;
+}
+
+.darkbluetext {
+	color: #3a539b !important;
+}
+
+.emeraldtext {
+	color: #2ecc71 !important;
 }
 
 .devisewidth {
@@ -22,4 +38,44 @@ $jumbotron-bg: #ecf0f1;
 	margin-right: auto;
 	margin-left: auto;
 }
+
+.blueback {
+	background-color: #3498db !important;
+}
+
+.chapter {
+	width: 600px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.lessonfontsize {
+    font-size: 16px !important;
+	
+}
+
+.navborder {
+	border-top: #dadfe1 9px solid;
+}
+
+.star {
+	color: #2980b9 !important;
+}
+
+.silver {
+	background-color: #6bb9f0 !important;
+}
+
+.lessonjumbo {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.centerblock {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+
 

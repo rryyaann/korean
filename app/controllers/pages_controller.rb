@@ -7,4 +7,13 @@ class PagesController < ApplicationController
 
   def faq
   end
+
+  def korean_class
+  end
+
+  def lesson
+  end
+
+  def how_to_learn_korean
+  end
 end
