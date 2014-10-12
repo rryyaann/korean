@@ -1,4 +1,7 @@
+@import url(http://fonts.googleapis.com/css?family=OpenSans:400,700);
+
 $body-bg: #e74c3c;
+$font-family-sans-serif: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 $navbar-inverse-bg: #ecf0f1;
 $navbar-inverse-link-color: #3498db;
 $brand-primary: #3498db;
@@ -75,6 +78,26 @@ $jumbotron-bg: #ecf0f1;
 .centerblock {
 	margin-left: auto;
 	margin-right: auto;
+}
+
+.cloudback {
+    background-color: #ecf0f1 !important; 	
+}
+
+.space {
+     padding: 15px !important;
+}
+
+.lightredtext {
+	color: #e08283 !important;
+}
+
+.roundborders {
+	border-radius: 5px;
+}
+
+.lightbluetext {
+	color: #6bb9f0;
 }
 
 

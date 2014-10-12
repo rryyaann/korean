@@ -12,6 +12,7 @@ gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', '~> 3.0.3.0'
 gem 'devise'
 
+
 group :doc do
   
   gem 'sdoc', require: false
